@@ -19,5 +19,5 @@
 ### 🤝 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/gopika-prasanth-menon-0b46b73ba/
-* Kaggle: https//www.kaggle.com/gopikapmenon
+* Kaggle: https://www.kaggle.com/gopikapmenon
 * GitHUb: https://github.com/gopika25boe10127
