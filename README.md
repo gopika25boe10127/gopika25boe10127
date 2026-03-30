@@ -13,3 +13,11 @@
 * 📊 **Mastering String Analysis & File I/O in Python**
 * 💻 **Building a professional presence on GitHub & Kaggle**
 * 🔍 **Advocating for Cybersecurity Awareness (UPI Fraud Prevention)**
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn]((https://www.linkedin.com/in/gopika-prasanth-menon-0b46b73ba/))
+[![Kaggle](https://www.kaggle.com/gopikapmenon)
+[![GitHUb](https://github.com/gopika25boe10127)
